@@ -1,0 +1,33 @@
+_repo: Twilight-Land_1751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: Introduction -- The stool of fortune -- The talisman of Solomon --
+  Ill-luck and the fiddler -- Empty bottles -- Good gifts and a fool's folly -- The
+  good of a few words -- Woman's wit -- A piece of good luck -- The fruit of happiness
+  -- Not a pin to choose -- Much shall have more and little shall have less -- Wisdom's
+  wages and folly's pay -- The enchanted island -- All things are as fate wills --
+  Where to lay the blame -- The salt of life.
+title: Twilight Land
+url: http://www.gutenberg.org/ebooks/1751
